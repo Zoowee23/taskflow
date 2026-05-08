@@ -233,7 +233,14 @@ This architecture is designed to scale horizontally:
 
 ## Screenshots
 
-> Add screenshots of Login, Dashboard, Tasks, and Admin pages here.
+<img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/a761154b-e7a3-4d5c-9aca-19387abb983a" />
+<img width="1366" height="626" alt="image" src="https://github.com/user-attachments/assets/3266bb3e-dd1b-43f4-afd2-b9828f01028b" />
+<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/88b6e042-b593-4d12-8aea-e46086e2a61d" />
+<img width="606" height="605" alt="image" src="https://github.com/user-attachments/assets/d91ed2a8-1b08-458e-b976-a8ff1de68afb" />
+
+
+
+
 
 ---
 
